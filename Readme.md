@@ -1,10 +1,10 @@
 ### Employee Management System using linked list using project 
 <pre>
-This code is written in cpp
-File handling database is  used
-file handling method is used.
+<li>This code is written in cpp
+<li>File handling database is  used
+<li>file handling method is used.
 
-login process
+<li> login process
 
 username = user
 password = group9
